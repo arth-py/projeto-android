@@ -65,11 +65,10 @@ header > p {
     */
     max-width: 600px;
     margin: auto;
-    margin-bottom: 20px;
     /*
         Quando o site diminui a caixa organiza
     */
-    padding: 0px 10px 0px 10px;
+    padding: 0px 10px 50px 10px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.325);
 }
 
